@@ -19,7 +19,7 @@ We use the [ACRONYM](https://sites.google.com/nvidia.com/graspdataset) to genera
 
 ## Referring expression
 - [ocidref](https://github.com/lluma/OCID-Ref): We could send you the processed dataset if you get the permission to access the original data.
-- [roborefit](https://github.com/luyh20/VL-Grasp): We could send you the processed dataset if you get the permission to access the original data.
+- [roborefit](https://github.com/luyh20/VL-Grasp): The processed dataset can be download [here](https://www.dropbox.com/scl/fi/6eijy22sgur3xcwevz6b3/VLGrasp.tar.gz?rlkey=d8p29m3gllj52upbkwmvn6brq&e=1&st=wyxuf063&dl=0).
 
 ## Language-guided robotic manipulation
 - RLBench data: follow [PolarNet](https://github.com/vlc-robot/polarnet/?tab=readme-ov-file) to download or generate the training data for the 10 robotic manipulation tasks.
